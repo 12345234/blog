@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "semantic-ui-css": "^2.5.0"
+  }
+}
